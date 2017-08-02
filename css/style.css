@@ -1,0 +1,180 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #BFB38E;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Abril Fatface', cursive;
+	margin-top: 0;
+}
+
+#top-nav li a {
+	font-size: 17px;
+	padding-bottom: -20px;
+}
+
+.navbar-toggle .collapsed {
+	border: none;
+}
+
+.parallax-window {
+	min-height: 700px;
+	background: transparent;
+}
+.jumbotron {
+	color: #fff;
+	background: none;
+	padding-top: 250px;
+}
+
+/****** ISOTOPE AREA *******/
+
+.portfolio_filter ul {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.portfolio_filter ul li {
+	display: inline;
+	padding-right: 25px;
+	margin-bottom: 75px;
+	margin-left: 25px;
+	cursor: pointer;
+}
+
+.portfolio_items a{
+	padding-top: -30px;
+}
+
+.single_item {
+	padding-bottom: 15px;
+}
+
+
+/******* END ISOTOPE ******/
+
+/***** Google Map ****/
+#map {
+ 	text-align: center;
+      width: 90%;
+      height: 375px;
+      margin: 0px;
+      padding: 0px
+ }
+
+ /******* Portfolio ****/
+
+ #portfolio {
+ 	background: #BFB38E;
+ 	margin: 0;
+ }
+
+ /***** Skills *****/
+
+#technology h2 {
+	color: yellow;
+}
+
+ .language-wrapper {
+ 	min-height: 455px;
+ 	background: black;
+ 	padding-top: 4.5em;
+ }
+
+ .skills-intro {
+ 	color: white;
+ 	padding-bottom: 40px;
+ 	font-size: 23px;
+ }
+
+ .icon-wrap {
+ 	margin: 0 auto;
+ 	text-align: center;
+ }
+
+ .devicon-html5-plain-wordmark {
+ 	font-size: 175px;
+ 	padding-top: 25px;
+ 	padding-bottom: 10px;
+ }
+
+ .devicon-css3-plain-wordmark {
+ 	font-size: 175px;
+ 	padding-top: 25px;
+ }
+
+ .devicon-javascript-plain {
+ 	font-size: 175px;
+ 	padding-top: 25px;
+ }
+
+ .devicon-jquery-plain-wordmark {
+ 	font-size: 175px;
+ 	padding-top: 25px;
+ }
+
+ .devicon-nodejs-plain {
+ 	font-size: 175px;
+ 	padding-top: 25px;
+ }
+
+ .devicon-python-plain-wordmark {
+ 	font-size: 175px;
+ 	padding-top: 25px;
+ }
+
+ 
+
+ /***** About Me *****/
+
+#aboutMe {
+	background: #BFB38E;
+}
+#aboutMe p {
+	padding-top: 60px;
+}
+
+ /**** Contact Info ****/
+#contactInfo {
+	background: #BFB38E;
+	padding: 10px 10px;
+}
+
+#contactInfo .col-md-5 {
+	margin-top: 90px;
+}
+
+.col-lg-4, .col-md-4, .col-sm-4, .col-xs-12 h2 a {
+	padding-top: 90px;
+}
+
+
+
+/****** Font-Awesome***/
+
+#contactInfo .col-sm-5 {
+	padding-top: 75px;
+	padding-left: 50px;
+}
+
+ 
+
+footer {
+	background-color: black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
